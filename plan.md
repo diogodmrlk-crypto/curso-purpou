@@ -30,4 +30,4 @@ Um curso web responsivo, em português brasileiro, que ensina a construir um pai
 
 ## Conteúdo
 
-As trilhas cobrem: fundamentos TypeScript/React; arquitetura da interface; MockAPI (projeto, modelo, campos, endpoints e CRUD); keys e planos; sessão/HWID conceitual; PWA; Vercel; testes, segurança e checklist. Cada trilha inclui passos, código, armadilhas e uma imagem/diagrama quando isso ajuda a compreensão.
+As trilhas cobrem: lógica para iniciantes; fundamentos TypeScript/React/TSX; arquitetura da interface; MockAPI (projeto, modelo, campos, endpoints e CRUD); keys e planos; sessão/HWID conceitual; PWA; Vercel; testes, segurança e checklist. Há guias específicos para Spck Editor no celular, Replit no navegador e Visual Studio Code no PC, com screenshots reais e links oficiais. O Editor Purpou permite criar pastas, criar arquivos limitados a `.tsx`, `.html` e `.js`, editar, receber snippets de autocomplete local e visualizar HTML. Cada trilha inclui passos, código, armadilhas, vídeo curto ou uma imagem/diagrama quando isso ajuda a compreensão.

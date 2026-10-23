@@ -10,4 +10,9 @@
 - [ ] Ensinar PWA com manifest, ícones, service worker, instalação e atualização.
 - [ ] Ensinar build e deploy na Vercel, variáveis, domínio, checklist e diagnóstico.
 - [ ] Incluir diagramas/imagens didáticos úteis e links oficiais.
+- [ ] Incluir imagens reais e creditadas de Spck Editor, Replit e Visual Studio Code.
+- [ ] Incluir microaulas em vídeo sobre lógica, primeiro TSX e escolha do editor.
+- [ ] Explicar lógica desde o início, com variáveis, condições, repetição, funções, estado, eventos e primeiro componente TSX.
+- [ ] Criar o Editor Purpou com pastas, arquivos, edição local, autocomplete local e suporte somente a `.tsx`, `.html` e `.js`, com preview HTML.
+- [ ] Criar guias completos para utilizar Spck Editor no celular, Replit no navegador e Visual Studio Code no PC.
 - [ ] Validar build, PWA e manifesto de rotas; criar e publicar o repositório GitHub `curso-purpou`.
