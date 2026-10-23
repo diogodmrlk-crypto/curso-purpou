@@ -1,0 +1,6 @@
+flowchart LR
+  H[HTTPS] --> M[Manifest]
+  H --> SW[Service Worker]
+  SW --> C[(Cache shell)]
+  C --> O[Offline básico]
+  SW --> U[Atualização versionada]

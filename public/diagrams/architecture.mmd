@@ -1,0 +1,7 @@
+flowchart LR
+  U[Usuário] --> UI[Painel React]
+  UI --> S[Serviço TypeScript]
+  S --> API[MockAPI REST]
+  API --> D[(Licenças e planos)]
+  UI --> P[PWA / Cache]
+  P --> V[Vercel]

@@ -1,0 +1,12 @@
+erDiagram
+  LICENSES {
+    string id PK
+    string key
+    string username
+    string type
+    string status
+    string device
+    number expiresAt
+  }
+  LICENSES ||--o| DEVICES : vincula
+  DEVICES { string deviceId }

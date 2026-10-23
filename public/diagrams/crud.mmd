@@ -1,0 +1,9 @@
+flowchart LR
+  F[Formulário] -->|POST| C[Criar]
+  L[Lista] -->|GET| R[Ler]
+  A[Ação] -->|PATCH / PUT| U[Atualizar]
+  X[Confirmação] -->|DELETE| D[Excluir]
+  C --> API[(MockAPI)]
+  R --> API
+  U --> API
+  D --> API

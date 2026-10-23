@@ -1,0 +1,8 @@
+flowchart TD
+  K[Key ativa] --> H{Tem device?}
+  H -->|Não| A[Vincular device + activatedAt]
+  H -->|Sim, mesmo| V[Validar expiração]
+  H -->|Sim, diferente| B[Bloquear acesso]
+  A --> V
+  V -->|Válida| P[Abrir painel]
+  V -->|Expirada| E[Encerrar sessão]
